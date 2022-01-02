@@ -26,6 +26,7 @@ pyhomogeneity
 scikit_posthocs
 statsmodels.formula.api
 statsmodels.api
+sklearn.model_selection
 
 The easiest way to install these is using pip (https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
 

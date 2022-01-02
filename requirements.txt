@@ -10,3 +10,4 @@ pyhomogeneity
 scikit_posthocs
 statsmodels.formula.api
 statsmodels.api
+sklearn.model_selection
