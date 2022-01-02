@@ -1,5 +1,12 @@
+scikitlearn
 pandas
 numpy
 scipy
-matplotlib
+matplotlib.pyplot
 seaborn
+sklearn.cluster
+sklearn.svm
+pyhomogeneity
+scikit_posthocs
+statsmodels.formula.api
+statsmodels.api
